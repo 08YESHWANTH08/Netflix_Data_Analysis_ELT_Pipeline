@@ -1,5 +1,5 @@
 
-# 🎬 Netflix Data Analysis ELT Pipeline with dbt & Snowflake
+# 🎬 Netflix Data Analysis ELT Pipeline with dbt & Snowflake (Ongoing --> Building PowerBI Dashboard)
 
 This project is a modern data stack implementation of an end-to-end ELT pipeline using **dbt (Data Build Tool)** with **Snowflake** and **AWS S3** as the underlying platforms.
 
